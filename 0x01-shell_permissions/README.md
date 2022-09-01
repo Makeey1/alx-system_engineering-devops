@@ -1,1 +1,1 @@
-Adds execute permission to the owner of the file
+A script used to execute permission to the owner
