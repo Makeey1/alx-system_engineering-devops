@@ -1,1 +1,1 @@
-create a script that switches the current user to betty
+A script that prints out all the group the user is part of
