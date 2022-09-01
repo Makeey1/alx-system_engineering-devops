@@ -1,1 +1,1 @@
-A script that prints a type of file
+Create a symbolic link into binls
