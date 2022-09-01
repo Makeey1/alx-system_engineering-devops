@@ -1,1 +1,1 @@
-A script that creates an empty file hello
+A script that adds excute permission to the owner of the file
