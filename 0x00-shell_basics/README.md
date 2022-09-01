@@ -1,1 +1,1 @@
-A script that list all files
+A script that prints a type of file
