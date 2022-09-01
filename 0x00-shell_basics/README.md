@@ -1,1 +1,1 @@
-Create a file that copies all html file from the current working directory
+Script that changes the working directory to the users directory
