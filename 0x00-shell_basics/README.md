@@ -1,1 +1,1 @@
-Create a script that creates my first diectory in the /tmp/ dirctory
+create a script the contains a directory
