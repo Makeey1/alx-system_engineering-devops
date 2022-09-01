@@ -1,1 +1,1 @@
-A script that  sets permission to the file
+A script that changes the group owner to school
