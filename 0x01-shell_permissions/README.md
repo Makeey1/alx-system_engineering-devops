@@ -1,1 +1,1 @@
-A script that adds execute permission to all subdirecories
+A script that sets the mode of the file
