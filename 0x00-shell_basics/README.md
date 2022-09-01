@@ -1,1 +1,1 @@
-create a script the contains a directory
+Move file from betty to tmp tomy first directory
