@@ -1,1 +1,1 @@
-Adds execution permission to the owner
+Add execution permission to the owner
