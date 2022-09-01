@@ -1,1 +1,1 @@
-A script that prints all the groups of the current user
+A script that changes the owner of he filehello to the user betty
