@@ -1,1 +1,1 @@
-A script used to execute permission to the owner
+Sets permission o the file
